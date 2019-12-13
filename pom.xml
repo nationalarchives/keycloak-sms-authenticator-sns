@@ -142,6 +142,12 @@
             <artifactId>notifications-java-client</artifactId>
             <version>${version.notify-client}</version>
         </dependency>
+
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>1.10</version>
+        </dependency>
     </dependencies>
     <repositories>
         <repository>
