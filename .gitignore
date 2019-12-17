@@ -4,3 +4,6 @@ node_modules/
 
 # It's useful to open this submodule in IntelliJ, but it's never run on its own
 .idea
+
+dependency-reduced-pom.xml
+*.iml
